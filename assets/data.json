@@ -1,0 +1,642 @@
+[
+    {
+        "id": "CW493vjlgn_",
+        "uploaded": "2024-10-11 18:52:07",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Convert Strings to Integers Simple Methods Revealed",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Convert_Strings_to_Integers_Simple_Methods_Revealed.mp4",
+        "rating": 1.4,
+        "likeCount": 10939,
+        "bookmarkCount": 69960,
+        "viewCount": 114152,
+        "shareCount": 794276,
+        "dislikeCount": 864799
+    },
+    {
+        "id": "DQ319vAORg_",
+        "uploaded": "2024-10-11 18:51:53",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Dynamic Memory Management in C Avoiding Memory Leaks",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Dynamic_Memory_Management_in_C_Avoiding_Memory_Leaks.mp4",
+        "rating": 4.4,
+        "likeCount": 709671,
+        "bookmarkCount": 912378,
+        "viewCount": 141934,
+        "shareCount": 152124,
+        "dislikeCount": 691329
+    },
+    {
+        "id": "IW993mnvZD-",
+        "uploaded": "2024-10-11 18:51:56",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Effortless Ways to Manage Array Size Limitations",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Effortless_Ways_to_Manage_Array_Size_Limitations.mp4",
+        "rating": 1.9,
+        "likeCount": 24226,
+        "bookmarkCount": 919343,
+        "viewCount": 512709,
+        "shareCount": 892355,
+        "dislikeCount": 245224
+    },
+    {
+        "id": "GV087QCnKM+",
+        "uploaded": "2024-10-11 18:50:55",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Inserting New Nodes in a Sorted Linked List",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Inserting_New_Nodes_in_a_Sorted_Linked_List.mp4",
+        "rating": 4.8,
+        "likeCount": 455061,
+        "bookmarkCount": 179561,
+        "viewCount": 938937,
+        "shareCount": 210203,
+        "dislikeCount": 513412
+    },
+    {
+        "id": "IS772yhqmr_",
+        "uploaded": "2024-10-11 18:51:02",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Jack's Fashion Dilemma  Lessons in Friendships",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Jack's_Fashion_Dilemma__Lessons_in_Friendships.mp4",
+        "rating": 1.2,
+        "likeCount": 199665,
+        "bookmarkCount": 201346,
+        "viewCount": 350237,
+        "shareCount": 718717,
+        "dislikeCount": 133196
+    },
+    {
+        "id": "RI571iPldx+",
+        "uploaded": "2024-10-11 18:51:46",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Data Structures in C  Unlocking Design Possibilities",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Data_Structures_in_C__Unlocking_Design_Possibilities.mp4",
+        "rating": 1.9,
+        "likeCount": 130071,
+        "bookmarkCount": 133871,
+        "viewCount": 747449,
+        "shareCount": 135345,
+        "dislikeCount": 923879
+    },
+    {
+        "id": "WU734weXjz_",
+        "uploaded": "2024-10-11 18:51:34",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Data Structures  Ending Your List Properly",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Data_Structures__Ending_Your_List_Properly.mp4",
+        "rating": 2.2,
+        "likeCount": 799925,
+        "bookmarkCount": 611331,
+        "viewCount": 77002,
+        "shareCount": 947433,
+        "dislikeCount": 242408
+    },
+    {
+        "id": "EE449LyKQn-",
+        "uploaded": "2024-10-11 18:51:37",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Linked Lists  Avoiding Common Mistakes",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Linked_Lists__Avoiding_Common_Mistakes.mp4",
+        "rating": 2.0,
+        "likeCount": 457525,
+        "bookmarkCount": 36525,
+        "viewCount": 774978,
+        "shareCount": 169450,
+        "dislikeCount": 689940
+    },
+    {
+        "id": "RY995LWHiG+",
+        "uploaded": "2024-10-11 18:52:44",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Linked Lists  Command Line Input in C",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Linked_Lists__Command_Line_Input_in_C.mp4",
+        "rating": 3.0,
+        "likeCount": 261794,
+        "bookmarkCount": 486133,
+        "viewCount": 941720,
+        "shareCount": 948689,
+        "dislikeCount": 749571
+    },
+    {
+        "id": "JN350bApaR_",
+        "uploaded": "2024-10-11 18:51:25",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Linked Lists  Printing the Complete List",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Linked_Lists__Printing_the_Complete_List.mp4",
+        "rating": 2.0,
+        "likeCount": 252848,
+        "bookmarkCount": 886178,
+        "viewCount": 991067,
+        "shareCount": 567117,
+        "dislikeCount": 418569
+    },
+    {
+        "id": "IF084JUxfc+",
+        "uploaded": "2024-10-11 18:50:58",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Loops in Programming  A Simple Code Exercise",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Loops_in_Programming__A_Simple_Code_Exercise.mp4",
+        "rating": 1.3,
+        "likeCount": 950855,
+        "bookmarkCount": 972498,
+        "viewCount": 272453,
+        "shareCount": 662125,
+        "dislikeCount": 869760
+    },
+    {
+        "id": "OR174pVtnW+",
+        "uploaded": "2024-10-11 18:51:31",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering malloc  Essential Practices for Memory Allocation",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_malloc__Essential_Practices_for_Memory_Allocation.mp4",
+        "rating": 2.1,
+        "likeCount": 970685,
+        "bookmarkCount": 207567,
+        "viewCount": 244241,
+        "shareCount": 796046,
+        "dislikeCount": 826631
+    },
+    {
+        "id": "WJ896MMGdN+",
+        "uploaded": "2024-10-11 18:50:51",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Memory Allocation  Malloc and Pointer Arithmetic",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Memory_Allocation__Malloc_and_Pointer_Arithmetic.mp4",
+        "rating": 1.5,
+        "likeCount": 339429,
+        "bookmarkCount": 30706,
+        "viewCount": 100439,
+        "shareCount": 67023,
+        "dislikeCount": 860501
+    },
+    {
+        "id": "UZ659ruXsK+",
+        "uploaded": "2024-10-11 18:50:20",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Memory Management  Update Your List Value Easily",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Memory_Management__Update_Your_List_Value_Easily.mp4",
+        "rating": 3.8,
+        "likeCount": 302844,
+        "bookmarkCount": 851149,
+        "viewCount": 658166,
+        "shareCount": 960986,
+        "dislikeCount": 544543
+    },
+    {
+        "id": "BM822sTrrs+",
+        "uploaded": "2024-10-11 18:53:03",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Memory  Advanced Data Structures with Pointers",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Memory__Advanced_Data_Structures_with_Pointers.mp4",
+        "rating": 2.2,
+        "likeCount": 240193,
+        "bookmarkCount": 670848,
+        "viewCount": 672103,
+        "shareCount": 108811,
+        "dislikeCount": 234709
+    },
+    {
+        "id": "TL891lSeUO+",
+        "uploaded": "2024-10-11 18:52:50",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Node Insertion  Code Simplified for Beginners",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Node_Insertion__Code_Simplified_for_Beginners.mp4",
+        "rating": 3.1,
+        "likeCount": 430957,
+        "bookmarkCount": 442584,
+        "viewCount": 985367,
+        "shareCount": 561795,
+        "dislikeCount": 136496
+    },
+    {
+        "id": "PR164wUVex+",
+        "uploaded": "2024-10-11 18:52:25",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Node Insertion  Keep Your List Sorted!",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Node_Insertion__Keep_Your_List_Sorted!.mp4",
+        "rating": 2.5,
+        "likeCount": 490741,
+        "bookmarkCount": 614662,
+        "viewCount": 300648,
+        "shareCount": 901646,
+        "dislikeCount": 743029
+    },
+    {
+        "id": "VS975HAbfq-",
+        "uploaded": "2024-10-11 18:51:18",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Pointers in C  A Step-by-Step Guide",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Pointers_in_C__A_Step-by-Step_Guide.mp4",
+        "rating": 1.3,
+        "likeCount": 978893,
+        "bookmarkCount": 567988,
+        "viewCount": 758688,
+        "shareCount": 418889,
+        "dislikeCount": 794999
+    },
+    {
+        "id": "ZU334rRqjW-",
+        "uploaded": "2024-10-11 18:50:39",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Pointers  The Key to Linking Code Chunks!",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Pointers__The_Key_to_Linking_Code_Chunks!.mp4",
+        "rating": 4.2,
+        "likeCount": 524930,
+        "bookmarkCount": 399388,
+        "viewCount": 498290,
+        "shareCount": 995466,
+        "dislikeCount": 909037
+    },
+    {
+        "id": "FU943OyMUw-",
+        "uploaded": "2024-10-11 18:51:27",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Queues in C  Enqueue and Dequeue Explained",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Queues_in_C__Enqueue_and_Dequeue_Explained.mp4",
+        "rating": 4.6,
+        "likeCount": 788444,
+        "bookmarkCount": 981997,
+        "viewCount": 704552,
+        "shareCount": 254280,
+        "dislikeCount": 619783
+    },
+    {
+        "id": "XX732Kwxyw_",
+        "uploaded": "2024-10-11 18:50:44",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Mastering Stacks and Queues  LIFO vs FIFO Explained",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Mastering_Stacks_and_Queues__LIFO_vs_FIFO_Explained.mp4",
+        "rating": 3.6,
+        "likeCount": 501921,
+        "bookmarkCount": 804272,
+        "viewCount": 805517,
+        "shareCount": 230470,
+        "dislikeCount": 504244
+    },
+    {
+        "id": "IW366VdlhD+",
+        "uploaded": "2024-10-11 18:52:59",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Master Dynamic Memory Allocation in C Programming",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Master_Dynamic_Memory_Allocation_in_C_Programming.mp4",
+        "rating": 2.2,
+        "likeCount": 608166,
+        "bookmarkCount": 184109,
+        "viewCount": 255356,
+        "shareCount": 895714,
+        "dislikeCount": 167063
+    },
+    {
+        "id": "QZ460qTRAo-",
+        "uploaded": "2024-10-11 18:51:42",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Master Linked List Insertion  The Power of Prepending",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Master_Linked_List_Insertion__The_Power_of_Prepending.mp4",
+        "rating": 3.8,
+        "likeCount": 11065,
+        "bookmarkCount": 503726,
+        "viewCount": 491839,
+        "shareCount": 856817,
+        "dislikeCount": 256385
+    },
+    {
+        "id": "MK371lzvJo+",
+        "uploaded": "2024-10-11 18:52:17",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Master Memory Allocation  Avoid Coding Pitfalls",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Master_Memory_Allocation__Avoid_Coding_Pitfalls.mp4",
+        "rating": 3.8,
+        "likeCount": 61110,
+        "bookmarkCount": 883658,
+        "viewCount": 795259,
+        "shareCount": 436229,
+        "dislikeCount": 816013
+    },
+    {
+        "id": "RA429hxieA+",
+        "uploaded": "2024-10-11 18:52:37",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Master Memory Allocation  Understanding Pointers and Addresses",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Master_Memory_Allocation__Understanding_Pointers_and_Addresses.mp4",
+        "rating": 2.1,
+        "likeCount": 605169,
+        "bookmarkCount": 597381,
+        "viewCount": 406528,
+        "shareCount": 787112,
+        "dislikeCount": 865534
+    },
+    {
+        "id": "MI636XCDfK_",
+        "uploaded": "2024-10-11 18:50:17",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "The Fun of Queuing  A Cookie Challenge Awaits!",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/The_Fun_of_Queuing__A_Cookie_Challenge_Awaits!.mp4",
+        "rating": 3.7,
+        "likeCount": 240900,
+        "bookmarkCount": 457770,
+        "viewCount": 448221,
+        "shareCount": 6424,
+        "dislikeCount": 649268
+    },
+    {
+        "id": "LL799uhyHK_",
+        "uploaded": "2024-10-11 18:51:49",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "The Importance of Fair Queues  FIFO Explained",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/The_Importance_of_Fair_Queues__FIFO_Explained.mp4",
+        "rating": 2.0,
+        "likeCount": 731496,
+        "bookmarkCount": 498125,
+        "viewCount": 521703,
+        "shareCount": 163296,
+        "dislikeCount": 343024
+    },
+    {
+        "id": "TT875pOwsQ_",
+        "uploaded": "2024-10-11 18:50:02",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Transform Your Closet  The Power of Using a Queue",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Transform_Your_Closet__The_Power_of_Using_a_Queue.mp4",
+        "rating": 1.8,
+        "likeCount": 297358,
+        "bookmarkCount": 505079,
+        "viewCount": 620577,
+        "shareCount": 531593,
+        "dislikeCount": 437160
+    },
+    {
+        "id": "OD449glFvI_",
+        "uploaded": "2024-10-11 18:50:48",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Transform Your Closet  The Power of Using a Queue (1)",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Transform_Your_Closet__The_Power_of_Using_a_Queue_(1).mp4",
+        "rating": 1.5,
+        "likeCount": 275393,
+        "bookmarkCount": 343891,
+        "viewCount": 850511,
+        "shareCount": 79536,
+        "dislikeCount": 496862
+    },
+    {
+        "id": "ZE305iNGRx+",
+        "uploaded": "2024-10-11 18:52:01",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Understanding Arrays  Why Contiguous Memory Matters!",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Understanding_Arrays__Why_Contiguous_Memory_Matters!.mp4",
+        "rating": 4.3,
+        "likeCount": 660636,
+        "bookmarkCount": 600292,
+        "viewCount": 261947,
+        "shareCount": 55230,
+        "dislikeCount": 2070
+    },
+    {
+        "id": "XJ342YczRU-",
+        "uploaded": "2024-10-11 18:52:29",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Understanding FIFO  The Power of Queues in Computing",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Understanding_FIFO__The_Power_of_Queues_in_Computing.mp4",
+        "rating": 4.5,
+        "likeCount": 935734,
+        "bookmarkCount": 448678,
+        "viewCount": 658410,
+        "shareCount": 813379,
+        "dislikeCount": 525314
+    },
+    {
+        "id": "HR700tPJRx_",
+        "uploaded": "2024-10-11 18:51:15",
+        "updated": "2012-04-08T21:37:06.000Z",
+        "uploader": "Harvard CS-50",
+        "category": "Music",
+        "caption": "Understanding Metadata  The Key to Effective Data Organization",
+        "tags": [
+            "Computer Science",
+            "CS-50",
+            "Harvard"
+        ],
+        "file": "assets/CS50_Video/Understanding_Metadata__The_Key_to_Effective_Data_Organization.mp4",
+        "rating": 3.8,
+        "likeCount": 29681,
+        "bookmarkCount": 765681,
+        "viewCount": 62013,
+        "shareCount": 798488,
+        "dislikeCount": 25242
+    }
+]
